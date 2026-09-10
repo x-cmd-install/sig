@@ -12,6 +12,17 @@ Interactive grep (for streaming)
 x install sig
 ```
 
+## Code insight
+
+Total: **1,201** lines of code across **16** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 1,076 | 33 | 148 | 8 |
+| Toml | 80 | 19 | 11 | 3 |
+| Nix | 45 | 0 | 6 | 2 |
+| Markdown | 0 | 221 | 87 | 3 |
+
 ## Source
 
 - **Upstream**: <https://github.com/ynqa/sig>
@@ -22,7 +33,6 @@ x install sig
 - **Latest**: `v0.3.0` (2026-03-02)
 - **Last commit**: 2026-03-02
 - **Assets in release**: 20
-- **Published**: 2026-03-02T15:07:31Z
 
 ## Popularity
 
@@ -37,27 +47,53 @@ x install sig
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 1 | 8 | 0 | 0 | 0 | 42 |
+| last720d | 2024-09-20 | 4 | 15 | 0 | 2 | 1 | 90 |
 
-## Code size
+## Release assets
 
-Total: **1,201** lines of code across **16** files in the top 5 languages.
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [dist-manifest.json](https://github.com/ynqa/sig/releases/download/v0.3.0/dist-manifest.json) | 24.6 KiB | `other` |
+| [sha256.sum](https://github.com/ynqa/sig/releases/download/v0.3.0/sha256.sum) | 793 B | `other` |
+| [sigrs-aarch64-apple-darwin.tar.xz](https://github.com/ynqa/sig/releases/download/v0.3.0/sigrs-aarch64-apple-darwin.tar.xz) | 935.7 KiB | `native/darwin/arm64` |
+| [sigrs-aarch64-apple-darwin.tar.xz.sha256](https://github.com/ynqa/sig/releases/download/v0.3.0/sigrs-aarch64-apple-darwin.tar.xz.sha256) | 101 B | `native/darwin/arm64` |
+| [sigrs-aarch64-pc-windows-msvc.zip](https://github.com/ynqa/sig/releases/download/v0.3.0/sigrs-aarch64-pc-windows-msvc.zip) | 1.4 MiB | `native/win/arm64` |
+| [sigrs-aarch64-pc-windows-msvc.zip.sha256](https://github.com/ynqa/sig/releases/download/v0.3.0/sigrs-aarch64-pc-windows-msvc.zip.sha256) | 101 B | `native/win/arm64` |
+| [sigrs-aarch64-unknown-linux-gnu.tar.xz](https://github.com/ynqa/sig/releases/download/v0.3.0/sigrs-aarch64-unknown-linux-gnu.tar.xz) | 999.7 KiB | `native/linux/arm64/glibc` |
+| [sigrs-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/ynqa/sig/releases/download/v0.3.0/sigrs-aarch64-unknown-linux-gnu.tar.xz.sha256) | 106 B | `native/linux/arm64/glibc` |
+| [sigrs-installer.sh](https://github.com/ynqa/sig/releases/download/v0.3.0/sigrs-installer.sh) | 53.7 KiB | `other` |
+| [sigrs-x86_64-apple-darwin.tar.xz](https://github.com/ynqa/sig/releases/download/v0.3.0/sigrs-x86_64-apple-darwin.tar.xz) | 1.1 MiB | `native/darwin/x64` |
+| [sigrs-x86_64-apple-darwin.tar.xz.sha256](https://github.com/ynqa/sig/releases/download/v0.3.0/sigrs-x86_64-apple-darwin.tar.xz.sha256) | 100 B | `native/darwin/x64` |
+| [sigrs-x86_64-pc-windows-msvc.zip](https://github.com/ynqa/sig/releases/download/v0.3.0/sigrs-x86_64-pc-windows-msvc.zip) | 1.4 MiB | `native/win/x64` |
+| [sigrs-x86_64-pc-windows-msvc.zip.sha256](https://github.com/ynqa/sig/releases/download/v0.3.0/sigrs-x86_64-pc-windows-msvc.zip.sha256) | 100 B | `native/win/x64` |
+| [sigrs-x86_64-unknown-linux-gnu.tar.xz](https://github.com/ynqa/sig/releases/download/v0.3.0/sigrs-x86_64-unknown-linux-gnu.tar.xz) | 1.1 MiB | `native/linux/x64/glibc` |
+| [sigrs-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/ynqa/sig/releases/download/v0.3.0/sigrs-x86_64-unknown-linux-gnu.tar.xz.sha256) | 105 B | `native/linux/x64/glibc` |
+| [sigrs-x86_64-unknown-linux-musl.tar.xz](https://github.com/ynqa/sig/releases/download/v0.3.0/sigrs-x86_64-unknown-linux-musl.tar.xz) | 1.2 MiB | `native/linux/x64/musl` |
+| [sigrs-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/ynqa/sig/releases/download/v0.3.0/sigrs-x86_64-unknown-linux-musl.tar.xz.sha256) | 106 B | `native/linux/x64/musl` |
+| [sigrs.rb](https://github.com/ynqa/sig/releases/download/v0.3.0/sigrs.rb) | 2.4 KiB | `other` |
+| [source.tar.gz](https://github.com/ynqa/sig/releases/download/v0.3.0/source.tar.gz) | 30.6 KiB | `native/unknown` |
+| [source.tar.gz.sha256](https://github.com/ynqa/sig/releases/download/v0.3.0/source.tar.gz.sha256) | 81 B | `other` |
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 1,076 | 33 | 148 | 8 |
-| Toml | 80 | 19 | 11 | 3 |
-| Nix | 45 | 0 | 6 | 2 |
-| Markdown | 0 | 221 | 87 | 3 |
+## Distribution status
+
+Reported by **12** distros on [repology.org](https://repology.org/project/sig). **9** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.3.0` | ✅ latest |
+| Nix unstable | `0.3.0` | ✅ latest |
 
 ## Improve this data
 
 Install metadata for sig lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `sig` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/sig.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/sig.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T06:27:08Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:17:09Z._
