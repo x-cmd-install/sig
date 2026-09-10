@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 1226908,
       "digest": "sha256:8bbfed0e4a597fe17ee90c87c63a8ca6da7902acb3ec9ac59a596975fb554de0",
-      "download_count": 137,
+      "download_count": 138,
       "created_at": "2026-03-02T15:07:30Z",
       "updated_at": "2026-03-02T15:07:30Z",
       "browser_download_url": "https://github.com/ynqa/sig/releases/download/v0.3.0/sigrs-x86_64-unknown-linux-musl.tar.xz"
