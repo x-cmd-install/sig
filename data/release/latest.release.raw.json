@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 55022,
       "digest": "sha256:f2859b70a7f87d1aaec6fe88f469e1c430ddbaf0ca024477eca972f939e3b7f9",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-03-02T15:07:29Z",
       "updated_at": "2026-03-02T15:07:30Z",
       "browser_download_url": "https://github.com/ynqa/sig/releases/download/v0.3.0/sigrs-installer.sh"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 1167004,
       "digest": "sha256:b43710f0b36a3237edd8d1dbc08aad5377c0c8b1ccb2500dab154bb00a6bb57f",
-      "download_count": 163,
+      "download_count": 165,
       "created_at": "2026-03-02T15:07:30Z",
       "updated_at": "2026-03-02T15:07:30Z",
       "browser_download_url": "https://github.com/ynqa/sig/releases/download/v0.3.0/sigrs-x86_64-unknown-linux-gnu.tar.xz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 1226908,
       "digest": "sha256:8bbfed0e4a597fe17ee90c87c63a8ca6da7902acb3ec9ac59a596975fb554de0",
-      "download_count": 145,
+      "download_count": 146,
       "created_at": "2026-03-02T15:07:30Z",
       "updated_at": "2026-03-02T15:07:30Z",
       "browser_download_url": "https://github.com/ynqa/sig/releases/download/v0.3.0/sigrs-x86_64-unknown-linux-musl.tar.xz"
