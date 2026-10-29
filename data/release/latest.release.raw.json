@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 106,
       "digest": "sha256:47e8d361e7a044c1368390c529ca9afe4d4088297e03b5196eecae0b3280872a",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-03-02T15:07:29Z",
       "updated_at": "2026-03-02T15:07:29Z",
       "browser_download_url": "https://github.com/ynqa/sig/releases/download/v0.3.0/sigrs-aarch64-unknown-linux-gnu.tar.xz.sha256"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 1167004,
       "digest": "sha256:b43710f0b36a3237edd8d1dbc08aad5377c0c8b1ccb2500dab154bb00a6bb57f",
-      "download_count": 323,
+      "download_count": 324,
       "created_at": "2026-03-02T15:07:30Z",
       "updated_at": "2026-03-02T15:07:30Z",
       "browser_download_url": "https://github.com/ynqa/sig/releases/download/v0.3.0/sigrs-x86_64-unknown-linux-gnu.tar.xz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 1226908,
       "digest": "sha256:8bbfed0e4a597fe17ee90c87c63a8ca6da7902acb3ec9ac59a596975fb554de0",
-      "download_count": 227,
+      "download_count": 232,
       "created_at": "2026-03-02T15:07:30Z",
       "updated_at": "2026-03-02T15:07:30Z",
       "browser_download_url": "https://github.com/ynqa/sig/releases/download/v0.3.0/sigrs-x86_64-unknown-linux-musl.tar.xz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 81,
       "digest": "sha256:d2c4fc6ec0bde7853890d8c8a93340605f2c27f73a69ad441053d0cc18fb32a0",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-03-02T15:07:31Z",
       "updated_at": "2026-03-02T15:07:31Z",
       "browser_download_url": "https://github.com/ynqa/sig/releases/download/v0.3.0/source.tar.gz.sha256"
